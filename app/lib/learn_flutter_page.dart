@@ -110,8 +110,6 @@ class _LearnFlutterPageState extends State<LearnFlutterPage> {
                 });
               },
             ),
-            Image.network(
-                'https://i.pinimg.com/originals/64/25/e2/6425e2c0923f46888e8520252ac20eac.jpg')
           ],
         ),
       ),
